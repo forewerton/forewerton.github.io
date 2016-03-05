@@ -251,7 +251,7 @@ fieldset[disabled] .btn-xl.active {
         border: 0
     }
     .navbar-default .navbar-brand {
-        font-size: 2em;
+        font-size: 2.5em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s
@@ -264,7 +264,7 @@ fieldset[disabled] .btn-xl.active {
         padding: 10px 0
     }
     .navbar-default.navbar-shrink .navbar-brand {
-        font-size: 1.5em
+        font-size: 2em
     }
 }
 
